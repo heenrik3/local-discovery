@@ -1,0 +1,6 @@
+.github
+*.o
+bin/
+build/
+*.exe
+*.out
